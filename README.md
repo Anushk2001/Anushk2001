@@ -1,5 +1,5 @@
 ## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Anushk2001&label=Profile%20views&color=0e75b6&style=flat" alt="gg-dev-05" /> </p>
 ![](https://komarev.com/ghpvc/?username=Anushk2001&color=dc143c)
 
 ## About Me:  
