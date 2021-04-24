@@ -41,6 +41,6 @@ I am Anushk Gautam
 
 
 #### Github Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?usernameAnushk2001&show_icons=true&theme=radical" alt="GitHub README Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushk2001&show_icons=true&theme=radical" alt="GitHub README Stats" />
 
 <br/>
