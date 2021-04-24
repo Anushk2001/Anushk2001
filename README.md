@@ -1,6 +1,6 @@
 ## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
+![](https://komarev.com/ghpvc/?username=Anushk2001&color=dc143c)
 
 ## About Me:  
 Hi, I am Anushk Gautam, 2nd year undergraduate pursuing a B. Tech focused in Mechanical Engineering from Indian Institute of Technology, Indore. I am an enthusiastic problem solver and a passionate learner. Skilled in DSA, Web Development and Team Management. I am passionately exploring and learning new opportunities and tools.  
@@ -38,7 +38,7 @@ Hi, I am Anushk Gautam, 2nd year undergraduate pursuing a B. Tech focused in Mec
 <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" /> </a></code>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Anushk2001&color=dc143c)
+
 
 #### Github Stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushk2001&show_icons=true&theme=radical" alt="GitHub README Stats" />
