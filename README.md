@@ -4,9 +4,9 @@
 <p > Hi, I am Anushk Gautam, 2nd year undergraduate pursuing a B. Tech focused in Mechanical Engineering from Indian Institute of Technology, Indore. I am an enthusiastic problem solver and a passionate learner. Skilled in DSA, Web Development and Team Management. I am passionately exploring and learning new opportunities and tools. </p>
 
 My area of expertise lies in Web Development.
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about Web Development
-- 📫 How to reach me: Linkedin - [Anushk](https://www.linkedin.com/in/anushk-gautam-69294b1b0/)
+- I’m looking to collaborate on Open Source Projects
+- Ask me about Web Development
+- How to reach me: Linkedin - [Anushk](https://www.linkedin.com/in/anushk-gautam-69294b1b0/)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Anushk2001&label=Profile%20views&color=0e75b6&style=flat" alt="Anushk2001" /> </p>
 
@@ -42,8 +42,7 @@ My area of expertise lies in Web Development.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
+<hr>
 
 #### Github Stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushk2001&show_icons=true&theme=radical" alt="GitHub README Stats" />
