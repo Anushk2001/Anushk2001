@@ -3,7 +3,7 @@
 
 
 ## About Me:  
-<p style="color:red;"> Hi, I am Anushk Gautam, 2nd year undergraduate pursuing a B. Tech focused in Mechanical Engineering from Indian Institute of Technology, Indore. I am an enthusiastic problem solver and a passionate learner. Skilled in DSA, Web Development and Team Management. I am passionately exploring and learning new opportunities and tools. </p>
+<p > Hi, I am Anushk Gautam, 2nd year undergraduate pursuing a B. Tech focused in Mechanical Engineering from Indian Institute of Technology, Indore. I am an enthusiastic problem solver and a passionate learner. Skilled in DSA, Web Development and Team Management. I am passionately exploring and learning new opportunities and tools. </p>
 
 
 #### My favourite languages:  
