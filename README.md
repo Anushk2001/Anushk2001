@@ -1,10 +1,15 @@
-## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## About Me:  
 <p > Hi, I am Anushk Gautam, 2nd year undergraduate pursuing a B. Tech focused in Mechanical Engineering from Indian Institute of Technology, Indore. I am an enthusiastic problem solver and a passionate learner. Skilled in DSA, Web Development and Team Management. I am passionately exploring and learning new opportunities and tools. </p>
-Connect With Me:
-<code><a href="https://www.linkedin.com/in/anushk-gautam-69294b1b0/" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="garvit-galgat-17122a191" height="30" width="30" /></a></code>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Anushk2001&label=Profile%20views&color=0e75b6&style=flat" alt="gg-dev-05" /> </p>
+My area of expertise lies in Web Development.
+- 👯 I’m looking to collaborate on Open Source Projects
+- 💬 Ask me about Web Development
+- 📫 How to reach me: Linkedin - [Anushk](https://www.linkedin.com/in/anushk-gautam-69294b1b0/)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Anushk2001&label=Profile%20views&color=0e75b6&style=flat" alt="Anushk2001" /> </p>
+
+<hr>
 
 #### My favourite languages:  
 
