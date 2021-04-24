@@ -4,7 +4,8 @@
 
 ## About Me:  
 <p > Hi, I am Anushk Gautam, 2nd year undergraduate pursuing a B. Tech focused in Mechanical Engineering from Indian Institute of Technology, Indore. I am an enthusiastic problem solver and a passionate learner. Skilled in DSA, Web Development and Team Management. I am passionately exploring and learning new opportunities and tools. </p>
-
+Connect With Me:
+<code><a href="https://www.linkedin.com/in/anushk-gautam-69294b1b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="garvit-galgat-17122a191" height="30" width="30" /></a></code>
 
 #### My favourite languages:  
 
@@ -22,7 +23,7 @@
 <code><a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="30" height="30"/> </a></code> 
 </p>
 
-#### Backend
+#### Backend:
 <p  >
 <code><a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" /> </a></code>
 <code><a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" /> </a></code>
@@ -31,7 +32,7 @@
 <code><a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a></code>
 </p>
 
-#### Database
+#### Database:
 <p >
 <code><a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" /> </a></code>
 <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" /> </a></code>
