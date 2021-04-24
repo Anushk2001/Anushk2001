@@ -5,7 +5,7 @@
 ## About Me:  
 <p > Hi, I am Anushk Gautam, 2nd year undergraduate pursuing a B. Tech focused in Mechanical Engineering from Indian Institute of Technology, Indore. I am an enthusiastic problem solver and a passionate learner. Skilled in DSA, Web Development and Team Management. I am passionately exploring and learning new opportunities and tools. </p>
 Connect With Me:
-<code><a href="https://www.linkedin.com/in/anushk-gautam-69294b1b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="garvit-galgat-17122a191" height="30" width="30" /></a></code>
+<code><a href="https://www.linkedin.com/in/anushk-gautam-69294b1b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="garvit-galgat-17122a191" height="20" width="30" /></a></code>
 
 #### My favourite languages:  
 
