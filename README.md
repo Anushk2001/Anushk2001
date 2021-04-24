@@ -1,6 +1,6 @@
 ## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="right"> ![](https://komarev.com/ghpvc/?username=Anushk2001&color=dc143c) </p>
+![](https://komarev.com/ghpvc/?username=Anushk2001&color=dc143c)
 
 ## About Me:  
 Hi, I am Anushk Gautam, 2nd year undergraduate pursuing a B. Tech focused in Mechanical Engineering from Indian Institute of Technology, Indore. I am an enthusiastic problem solver and a passionate learner. Skilled in DSA, Web Development and Team Management. I am passionately exploring and learning new opportunities and tools.  
