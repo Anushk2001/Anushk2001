@@ -3,12 +3,12 @@
 ### About Me:  
 <p > Hi, I am Anushk Gautam, 2nd year undergraduate pursuing a B. Tech focused in Mechanical Engineering from IIT, Indore. I am an enthusiastic problem solver and a passionate learner. Skilled in DSA, Web Development and Team Management.I am passionately exploring and learning new opportunities and tools. </p>
 
-####Some of my end-to-end projects:
+#### Some of my end-to-end projects:
 1) https://cafeteriaa.herokuapp.com/
 2) https://iitilms.herokuapp.com/
 
-- I’m looking to collaborate on Open Source Projects
-- How to reach me: Linkedin - [Anushk Gautam](https://www.linkedin.com/in/anushk-gautam-69294b1b0/)
+- 👋 I’m looking to collaborate on Open Source Projects
+- 💬 How to reach me: Linkedin - [Anushk Gautam](https://www.linkedin.com/in/anushk-gautam-69294b1b0/)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Anushk2001&label=Profile%20views&color=0e75b6&style=flat" alt="Anushk2001" /> </p>
 
