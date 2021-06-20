@@ -1,7 +1,7 @@
 ### Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About Me:  
-<p > Hi, I am Anushk Gautam, 2nd year undergraduate pursuing a B. Tech focused in Mechanical Engineering from IIT, Indore. I am an enthusiastic problem solver and a passionate learner. Skilled in DSA, Web Development and Team Management.I am passionately exploring and learning new opportunities and tools. </p>
+<p > Hi, I am Anushk Gautam, 3rd year undergraduate pursuing a B. Tech focused in Mechanical Engineering from IIT, Indore. I am an enthusiastic problem solver and a passionate learner. Skilled in DSA, Web Development and Team Management.I am passionately exploring and learning new opportunities and tools. </p>
 
 #### Some of my end-to-end projects:
 1) https://cafeteriaa.herokuapp.com/
