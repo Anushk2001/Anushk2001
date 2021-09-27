@@ -1,7 +1,7 @@
 ### Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About Me:  
-<p > Hi, I am Anushk Gautam, a 3rd-year undergraduate pursuing my Bachelor's from Indian Institute of Technology, Indore. Skilled in Problem Solving, Web Development, and Team Management.</p>
+<p > Hi, I am Anushk Gautam, a 3rd-year undergraduate pursuing my bachelor's from Indian Institute of Technology, Indore. Skilled in Problem Solving, Web Development, and Team Management.</p>
 <p >I've worked on multiple end-to-end projects and have gained industrial experience through open-source.</p>
 <p >I am passionately exploring and learning new opportunities and tools.</p>
 <p >I am a competitive programmer, 5★ on Codechef(2118) and Rated Expert on Codeforces(1782).</p>
