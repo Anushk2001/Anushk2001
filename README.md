@@ -5,7 +5,6 @@
 <p >I've worked on multiple end-to-end projects and have gained industrial experience through open-source.</p>
 <p >I am passionately exploring and learning new opportunities and tools.</p>
 <p >I am a competitive programmer, 5★ on Codechef(2118) and Rated Expert on Codeforces(1782).</p>
-<p >I had Qualified for Google CodeJam(2021) Round 2 and moreover got 79 rank in ICPC Amritapuri Regionals 2020.</p>
  
 
 #### Some of my end-to-end projects:
