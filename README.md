@@ -4,7 +4,7 @@
 <p > Hi, I am Anushk Gautam, a final-year undergraduate pursuing my bachelor's from Indian Institute of Technology, Indore. Skilled in Problem Solving, Web Development, and Team Management.</p>
 <p >I've worked on multiple end-to-end projects and have gained industrial experience through open-source.</p>
 <p >I am passionately exploring and learning new opportunities and tools.</p>
-<p >I am a competitive programmer, 6★ on Codechef(2200+) and Rated Candidate Master on Codeforces(1900+).</p>
+<p >I am a competitive programmer, Rated Candidate Master on Codeforces(1900+) and 6★ on Codechef(2200+).</p>
  
 
 #### Some of my end-to-end projects: 
