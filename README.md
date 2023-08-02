@@ -1,7 +1,7 @@
 ### Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About Me:  
-<p > Hi, I am Anushk Gautam, a final-year undergraduate pursuing my bachelor's from Indian Institute of Technology, Indore. Skilled in Problem Solving, Web Development, and Team Management.</p>
+<p > Hi, I am Anushk Gautam, completed my bachelor's from Indian Institute of Technology, Indore. Skilled in Problem Solving, Web Development, and Team Management.</p>
 <p >I've worked on multiple end-to-end projects and have gained industrial experience through open-source.</p>
 <p >I am passionately exploring and learning new opportunities and tools.</p>
 <p >I am a competitive programmer, Rated Candidate Master on Codeforces(1900+) and 6★ on Codechef(2200+).</p>
@@ -11,10 +11,6 @@
 1) https://farmer-helper-v2.netlify.app/
 2) https://iitilms.herokuapp.com/
 3) https://cafeteriaa.herokuapp.com/
-
-
-- 👋 I’m looking to collaborate on Open Source Projects
-- 💬 How to reach me: Linkedin - [Anushk Gautam](https://www.linkedin.com/in/anushk-gautam-69294b1b0/)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Anushk2001&label=Profile%20views&color=0e75b6&style=flat" alt="Anushk2001" /> </p>
 
